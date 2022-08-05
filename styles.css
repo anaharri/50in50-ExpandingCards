@@ -29,7 +29,7 @@ body {
   color: rgba(245, 240, 240, 0.975);
   cursor: pointer;
   flex: 0.5;
-  margin: 10px;
+  margin: 20px;
   position: relative;
   transition: flex 0.7s ease-in;
 }
